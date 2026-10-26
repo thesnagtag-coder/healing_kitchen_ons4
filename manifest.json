@@ -1,0 +1,2 @@
+{"name":"Healing Kitchen","short_name":"Healing Kitchen","description":"Easy recipes for 2 with nutrition and Ninja air fryer settings","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#FBF8F3","theme_color":"#C2603A",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
